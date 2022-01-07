@@ -93,3 +93,55 @@
 2022-01-04 13:38:22,191 :INFO : test_CCTVCheckOut :Click  CCTV View dates
 2022-01-04 13:44:26,914 :INFO : test_CCTVCheckOut :Click  CCTV menu button
 2022-01-04 13:44:31,319 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 12:38:09,903 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 12:38:20,359 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 13:01:00,826 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 13:01:09,013 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 13:01:21,368 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 13:01:39,527 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 13:01:39,989 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 13:03:11,148 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 13:03:15,267 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 13:03:27,546 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 13:03:45,648 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 13:03:46,088 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 15:31:24,783 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 15:31:31,482 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 15:31:43,955 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 15:32:02,059 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 15:32:02,514 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 16:00:36,802 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 16:00:41,734 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 16:00:54,243 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 16:01:12,425 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 16:01:12,932 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 16:23:40,685 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 16:23:45,493 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 16:23:57,390 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 16:24:15,503 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 16:24:15,970 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 16:25:25,426 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 16:25:30,098 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 16:25:41,961 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 16:26:00,071 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 16:26:00,517 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 16:30:14,707 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 16:30:19,386 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 16:30:31,543 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 16:30:49,660 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 16:30:50,101 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 16:31:46,760 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 16:31:50,885 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 16:32:02,943 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 16:32:21,072 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 16:32:21,532 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 16:41:22,487 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 16:41:27,536 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 16:41:39,925 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 16:41:58,021 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 16:41:58,476 :INFO : test_CCTVCheckOut :Click on Next button for address
+2022-01-07 16:43:33,441 :INFO : test_CCTVCheckOut :Click  CCTV menu button
+2022-01-07 16:43:37,368 :INFO : test_CCTVCheckOut :Click  CCTV View dates
+2022-01-07 16:43:49,711 :INFO : test_CCTVCheckOut :Click  ON CCTV Book Button
+2022-01-07 16:44:07,826 :INFO : test_CCTVCheckOut :Click on CCTV Package
+2022-01-07 16:44:08,260 :INFO : test_CCTVCheckOut :Click on Next button for address
