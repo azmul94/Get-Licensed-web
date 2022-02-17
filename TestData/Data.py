@@ -12,5 +12,3 @@ class Testdata:
     PostCode = "W1G 9PP"
     Address = "40 Harley Street"
     City = "London"
-
-
